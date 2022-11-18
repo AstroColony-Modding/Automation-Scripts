@@ -23,7 +23,7 @@ Contains various variables the batch files access. Assuming you installed everyt
 | Variable | Description | Default value |
 | --- | --- | --- |
 | ProjectFile | Represents the location of the .uproject you want to work with. Can be a relative path. | ..\AstroColony\AstroColony.uproject |
-| UnrealEngineLocation | Represents the location that UE4.27 is installed in. Expects the folder which CONTAINS Engine\\ | C:\Program Files (x86)\UE_4.24
+| UnrealEngineLocation | Represents the location that UE4.27 is installed in. Expects the folder which CONTAINS Engine\\ | C:\Program Files (x86)\UE_4.27
 | ModName | Used by the bats when making your pak name, and in one or two other places. | myMod |
 | SteamInstall | The folder the game is installed in. Expects the folder containing AstroColony.exe | C:\Program Files (x86)\Steam\steamapps\common\Astro Colony |
 
