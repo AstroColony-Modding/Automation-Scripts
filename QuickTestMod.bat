@@ -16,4 +16,4 @@ del "%SteamInstall%\AstroColony\Content\Paks\%ModName%_P.pak" /q
 echo copying over new mod pak
 move "%cd%\Temp\%ModName%_P.pak" "%SteamInstall%\AstroColony\Content\Paks\"
 
-start steam://rungameid/505460
+start steam://rungameid/1614550
