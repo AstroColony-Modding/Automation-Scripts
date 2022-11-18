@@ -12,7 +12,7 @@ if not exist Configs/LocalConfig.ini (
 	echo making default Local config
 	(
 		echo ProjectFile=..\AstroColony\AstroColony.uproject
-		echo UnrealEngineLocation=C:\Program Files ^(x86^)\UE_4.24\
+		echo UnrealEngineLocation=C:\Program Files ^(x86^)\UE_4.27\
 		echo SteamInstall=C:\Program Files ^(x86^)\Steam\steamapps\common\Astro Colony\
 	) > Configs/LocalConfig.ini
 )
